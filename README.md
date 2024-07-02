@@ -25,3 +25,26 @@
 ## Screenshots
 ### Dashboard 
 ![Screenshot (150)](https://github.com/Ayush1347/MicroProject-JPDB/assets/75846927/d03d36f2-3983-4bdf-abca-30b0b274c289)
+---
+### Adding Student Data into Database with the help of Enrollment Form
+
+![Screenshot (146)](https://github.com/Ayush1347/MicroProject-JPDB/assets/75846927/fb68686c-1ac1-4ee4-8b61-a515cd0b8ee3)
+
+
+![Screenshot (145)](https://github.com/Ayush1347/MicroProject-JPDB/assets/75846927/2e63a302-41f7-447d-85f4-8404f41a31d3)
+---
+### Student Data Addded successfully into Database
+![Screenshot (149)](https://github.com/Ayush1347/MicroProject-JPDB/assets/75846927/d5d58389-f8c8-4418-afd2-0aabf61d26da)
+---
+
+### Project Status: Done
+
+---
+### Sources: (https://careers.login2explore.com/course/view.php?id=14)
+### Other information: (https://login2explore.com/jpdb/docs.html)
+---
+
+
+
+
+
